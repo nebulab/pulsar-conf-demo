@@ -1,4 +1,4 @@
 Pulsar Configuration
 ====================
 
-Pulsar deploy configurations
+Pulsar deploy configurations example for Capistrano 2.
