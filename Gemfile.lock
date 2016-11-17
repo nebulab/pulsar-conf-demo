@@ -21,13 +21,13 @@ GEM
       bundler (~> 1.2)
       clamp (~> 0.5)
       colored (~> 1.2)
-    spinning_cursor (0.1.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   capistrano
-  colored
   pulsar
-  spinning_cursor
+
+BUNDLED WITH
+   1.13.6
