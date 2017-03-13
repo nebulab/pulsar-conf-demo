@@ -1,7 +1,7 @@
 # deploy.rb file shared between all the apps
 
 # config valid only for current version of Capistrano
-lock '3.7.2'
+lock '3.8.0'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
